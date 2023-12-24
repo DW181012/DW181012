@@ -5,20 +5,42 @@
    <link rel="stylesheet" href="css/styles.css">
  </head>
  <body>
- <div class=”container”>
-  <div class=”blurb”>
-    <h1>Jiajie Wu</h1>
+
+.column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+ <body>
+ <div class="row">
+  <div class="column" style="background-color:#FFB695;">
+   <h2>Column 1</h2>
+    <div class=”container”>
+     <div class=”blurb”>
+       <h1>Jiajie Wu</h1>
+     </div>
+    </div>
+   </div>
+  <h2>Column 2</h2>
+    <nav>
+    <ul>
+    <li><a href=~>Home</a></li>
+    <li><a href=research>Research</a></li>
+    <li><a href=publication>Publication</a></li>
+    <li><a href=teaching>Teaching</a></li>
+    <li><a href=other>Other</a></li>
+    </ul>
+    </nav>
+   </div>
   </div>
- </div>
-   <nav>
-     <ul>
-       <li><a href=~>Home</a></li>
-       <li><a href=research>Research</a></li>
-       <li><a href=publication>Publication</a></li>
-       <li><a href=teaching>Teaching</a></li>
-       <li><a href=other>Other</a></li>
-     </ul>
-   </nav>
+  
    <footer>
    <ul>
      <li><a href=”mailto:YOUREMAIL”>jw5486@nyu.edu</a></li>
