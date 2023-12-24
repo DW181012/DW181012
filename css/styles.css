@@ -41,3 +41,21 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.column {
+    float: left;
+    }
+
+.left {
+    width: 40%;
+    }
+    
+.right {
+    width: 60%;
+    }
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
