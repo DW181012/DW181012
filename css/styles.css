@@ -46,12 +46,28 @@ ul.posts li {
     float: left;
     }
 
-.left {
+.left1 {
     width: 50%;
     }
     
-.right {
+.right1 {
     width: 50%;
+    }
+
+.left2 {
+    width: 35%;
+    }
+    
+.right2 {
+    width: 65%;
+    }
+
+.left3 {
+    width: 65%;
+    }
+    
+.right3 {
+    width: 35%;
     }
 
 .row:after {
