@@ -10,8 +10,8 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 30px;
-    font-size: 15px
+    margin-right: 25px;
+    font-size: 12px
 }
 a {
     text-decoration: none;
@@ -56,11 +56,11 @@ ul.posts li {
     }
 
 .left2 {
-    width: 35%;
+    width: 25%;
     }
     
 .right2 {
-    width: 65%;
+    width: 75%;
     }
 
 .left3 {
