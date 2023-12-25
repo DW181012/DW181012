@@ -75,3 +75,8 @@ ul.posts li {
     display: table;
     clear: both;
     }
+
+.right {
+    text-align: right;
+    float: right;
+}
