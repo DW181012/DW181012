@@ -69,11 +69,13 @@ ul.posts li {
     }
 
 .left3 {
-    width: 65%;
-    }
-    
-.right3 {
     width: 35%;
+    }
+.middle3{
+    width: 35%;
+    }
+.right3 {
+    width: 30%;
     }
 
 .row:after {
