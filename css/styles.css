@@ -93,7 +93,7 @@ img {
     } 
 img.wrap { 
     max-width: 70%; 
-    margin: 10px 0px; 
+    margin-top: 10px; 
     } 
 img.align-right { 
     float: right; 
