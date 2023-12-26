@@ -71,12 +71,16 @@ ul.posts li {
 .left3 {
     width: 30%;
     }
+.left3blank {
+    width: 5%;
 .middle3{
-    width: 35%;
+    width: 30%;
+    }
+.right3blank{
+    wdth: 5%;
     }
 .right3 {
-    width: 35%;
-    margin-left: 5px;
+    width: 30%;
     }
 
 .row:after {
