@@ -105,8 +105,8 @@ img {
     display: block; 
     } 
 img.wrap { 
-    max-width: 95%; 
-    margin: 5px 5px; 
+    max-width: 99%; 
+    margin: 1px 1px; 
     } 
 img.align-right { 
     float: right; 
