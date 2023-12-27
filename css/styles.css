@@ -1,6 +1,6 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 36px auto;
+    width: 62%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -52,6 +52,10 @@ ul.posts li {
     float: left;
     }
 
+.nmuloc {
+    float: right;
+    }
+
 .left1 {
     width: 50%;
     }
@@ -69,13 +73,13 @@ ul.posts li {
     }
 
 .left3 {
-    width: 35%;
+    width: 32%;
     }
 .middle3{
-    width: 35%;
+    width: 32%;
     }
 .right3 {
-    width: 30%;
+    width: 32%;
     }
 
 .row:after {
