@@ -107,3 +107,7 @@ img.align-left {
     float: left;
     margin-right: 10px;
     }
+img.align-center{
+    margin-left: 10px;
+    margin-right 10px;
+    }
