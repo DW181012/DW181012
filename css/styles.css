@@ -1,4 +1,4 @@
-body {
+body {https://github.com/DW181012/DW181012/blob/main/css/styles.css
     margin: 18px auto;
     width: 62%;
 }
@@ -69,13 +69,13 @@ ul.posts li {
     }
 
 .left3 {
-    width: 35%;
+    width: 36%;
     }
 .middle3{
-    width: 32%;
+    width: 30%;
     }
 .right3blank{
-    width: 3%;
+    width: 4%;
     }
 .right3 {
     width: 30%;
@@ -104,5 +104,6 @@ img.align-right {
     margin-right: 3px;
     } 
 img.align-left { 
-    float: left;  
+    float: left;
+    margin-right: 10px;
     }
