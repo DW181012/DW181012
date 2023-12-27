@@ -106,7 +106,7 @@ img {
     } 
 img.wrap { 
     max-width: 85% !important; 
-    max-height: 60% !important; 
+    max-height: 290px !important; 
     margin: 5px 5px; 
     } 
 img.align-right { 
