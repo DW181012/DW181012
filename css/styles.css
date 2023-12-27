@@ -36,9 +36,9 @@ p {
     color: #333;
 }
 p1 {
-    font-size: 1em;
+    font-size: 1.2em;
     font-family:'Calibri';
-    line-height: 1.2em;
+    line-height: 1em;
     color: #333;
 }
 footer {
@@ -57,10 +57,12 @@ ul.posts li {
 
 .column {
     float: left;
+    margin-bottom: 8px;
     }
 
 .nmuloc {
     float: right;
+    margin-bottom: 8px;
     }
 
 .left1 {
