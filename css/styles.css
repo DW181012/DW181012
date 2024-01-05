@@ -90,7 +90,18 @@ ul.posts li {
 .right3 {
     width: 25%;
     }
-
+.left4 {
+    width: 35%;
+    }
+.right4 {
+    width: 62%;
+    }
+.left5 {
+    width: 62%;
+    }
+.right5 {
+    width: 35%;
+    }
 .row:after {
     content: "";
     display: table;
