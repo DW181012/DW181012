@@ -86,7 +86,8 @@ ul.posts li {
     }
 .middle3{
     width: 50%;
-    margin: 3%
+    margin-right: 3px;
+    margin-left: 3px;
     }
 .right3 {
     width: 20%;
